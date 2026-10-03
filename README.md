@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of gbcl/userip.** Not for installation: use [Packagist](https://packagist.org/packages/gbcl/userip) or the [upstream repository](https://github.com/GBCLStudio/userip).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/gbcl-userip/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.7.0`
+**3** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/gbcl-userip/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.7.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.3` | 2023-05-21 | `^1.6.3` | [Browse](https://github.com/flarchive/gbcl-userip/tree/archive/v1.0.3) |
+| `1.0.4` | 2023-06-29 | `^1.6.3` | [Browse](https://github.com/flarchive/gbcl-userip/tree/archive/v1.0.4) |
+| `1.1.0` | 2024-07-30 | `^1.7.0` | [Browse](https://github.com/flarchive/gbcl-userip/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/gbcl-userip.json](https://github.com/flarchive/archive-index/blob/main/packages/gbcl-userip.json)
 
